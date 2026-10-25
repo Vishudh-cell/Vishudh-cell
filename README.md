@@ -7,6 +7,7 @@ About Me:
 <br>
 Hi, I'm Vishudh Goel.
 <br>
+<br>
 I'm currently focused on:
 <br>
 <br>
@@ -44,7 +45,9 @@ Languages
 <br>
 <br>
 Python
+<br>
 SQL
+<br>
 Java
 <br>
 <br>
