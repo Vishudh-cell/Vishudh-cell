@@ -54,33 +54,8 @@ Java
 ML/AI
 <br>
 <br>
-PyTorch
-<br>
-Scikit-Learn
-<br>
-Pandas
-<br>
-NumPy
-<br>
-OpenCV
-<br>
-<br>
-LLMs & RAG
-<br>
-<br>
-LangChain
-<br>
-LlamaIndex
-<br>
-Vector Databases
-<br>
-<br>
 Deployment:
 <br>
-<br>
-FastAPI
-<br>
-Docker
 <br>
 GitHub Actions
 <br>
