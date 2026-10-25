@@ -1,8 +1,9 @@
-Headline
+Headline:
 <br>
 AI/ML Engineering Student | Computer Vision | RAG Systems | Deep Learning
 <br>
-About Me
+<br>
+About Me:
 <br>
 Hi, I'm Vishudh Goel.
 <br>
@@ -10,19 +11,32 @@ I'm currently focused on:
 <br>
 <br>
 Artificial Intelligence & Machine Learning
+<br>
 Computer Vision
+<br>
 Retrieval-Augmented Generation (RAG)
+<br>
 Deep Learning with PyTorch
+<br>
 MLOps and Deployment
-
+<br>
+<br>
 I'm building production-oriented AI projects while preparing for AI/ML internship opportunities in India, Europe, and remote-first startups.
-
-Current Focus
+<br>
+<br>
+Current Focus:
+<br>
 Helpdesk RAG Assistant
+<br>
 Image Retrieval Systems
+<br>
 Homography & Feature Matching
+<br>
 CNN-Based Computer Vision Projects
+<br>
 FastAPI + Docker Deployment
+<br>
+<br>
 Tech Stack
 <br>
 <br>
